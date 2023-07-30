@@ -13,7 +13,7 @@
 1. Клонируйте репозиторий из GitHub:
 
 ```
-git clone https://github.com/ваш-username/async-http-processing.git
+git clone https://github.com/MagzhanUnited/greenapi
 ```
 
 2. Установите зависимости для обоих микросервисов M1 и M2:
